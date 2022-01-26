@@ -7,4 +7,4 @@ This study guide has been setup on weekly basis backed with a series of [videos]
 
 The goal is to develop a data pipeline following the architecture below. We will be looking at New York City Taxi data!
 
-<img src="https://github.com/kanatsultan/DataEngineerZoomcamp/blob/master/images/arch_1.jpg" width=60% height=60%>
+<img src="https://github.com/kanatsultan/DataEngineerZoomcamp/blob/main/images/arch_1.jpg" width=60% height=60%>
